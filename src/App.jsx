@@ -1,3 +1,4 @@
+import './App.css'; // Adjust the path if needed
 import React, { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from './assets/vite.svg';
